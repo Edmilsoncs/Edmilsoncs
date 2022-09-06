@@ -1,6 +1,6 @@
 ### Hi there 
 Sou o professor EDMILSON de Pensamento  Computacional
-Estou aprendendo a progração e mexer com várias plataformas de informatica.
+Estou aprendendo a programação e mexer com várias plataformas de informatica.
 Estou me aprofundando no conhecimento destes assuntos pra ensinar aos meus alunos com propriedade.
 
 - 🔭 I’m currently working on ...
